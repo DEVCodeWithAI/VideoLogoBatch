@@ -1,7 +1,5 @@
 # VideoLogoBatch
 
-![VideoLogoBatch App Interface](https://i.imgur.com/k2V3q2u.png)
-
 **VideoLogoBatch** is a lightweight Windows desktop application for quickly and easily batch-rendering videos with a logo overlay. Built on the .NET 8 platform and the power of FFmpeg, this app provides an intuitive graphical interface to automate complex video processing tasks.
 
 ---
