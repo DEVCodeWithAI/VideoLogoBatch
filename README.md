@@ -2,6 +2,12 @@
 
 🔧 A lightweight Windows desktop app to batch render videos with logo or text overlay using FFmpeg.
 
+## 🖼️ Interface
+
+![Main UI](screenshots/screenshots_01.png)
+
+![Main UI](screenshots/screenshots_02.png)
+
 ## Features
 
 - 🖼️ Add PNG or text logo overlays
