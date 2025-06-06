@@ -1,0 +1,8 @@
+This product includes software developed by Trí (https://github.com/DEVCodeWithAI)
+
+Original project name: VideoLogoBatch
+Created by: VINH TRI TRAN – LeekSoft (https://buymeacoffee.com/devcodewithai)
+First release: 2024
+
+All trademarks and branding elements (e.g. logo, 'Leek' prefix) are not granted under this license.
+Any fork or redistribution must not use the original branding unless explicitly permitted.
